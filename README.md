@@ -1,1 +1,1 @@
-# przychodnia
+# przychodnia - kolejka, generowanie raportu
