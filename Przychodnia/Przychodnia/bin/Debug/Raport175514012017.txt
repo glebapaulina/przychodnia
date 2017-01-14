@@ -1,0 +1,4 @@
+Lekarz: imie i nazwisko: s, specjalnosc: sgg
+Pacjenci w kolejce:
+Pacjent: imie i nazwisko: TextBox, wiek: 45, choroba: 5.
+Czas oczekiwania: 0
